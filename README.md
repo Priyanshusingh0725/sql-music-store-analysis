@@ -115,8 +115,9 @@ This portfolio piece shows not only my technical proficiency in SQL but also my 
 
 ```
 
-├── project.sql         # Full SQL script with all queries, grouped by difficulty
-├── README.md           # This project overview and instructions
+├── Music\_Store\_Analysis.sql         # Full SQL script with all queries, grouped by difficulty
+├── PowerBI\_presentation.pbix        # Power BI dashboard file for visual insights
+├── README.md                        # This project overview and instructions
 
 ```
 
